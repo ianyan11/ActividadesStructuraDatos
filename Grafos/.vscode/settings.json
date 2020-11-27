@@ -1,0 +1,15 @@
+{
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "vector": "cpp",
+        "queue": "cpp",
+        "deque": "cpp",
+        "initializer_list": "cpp",
+        "stack": "cpp",
+        "type_traits": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}

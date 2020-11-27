@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "atomic": "cpp",
+        "memory": "cpp",
+        "vector": "cpp",
+        "ostream": "cpp",
+        "xutility": "cpp",
+        "stack": "cpp",
+        "queue": "cpp"
+    },
+    "python.pythonPath": "C:\\Users\\iande\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
+    "cmake.configureOnOpen": false
+}
